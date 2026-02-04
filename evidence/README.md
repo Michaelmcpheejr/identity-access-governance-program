@@ -1,4 +1,4 @@
-# Evidence Folder (Portfolio Safe)
+# Evidence Folder
 
 This folder represents where audit evidence would be stored in an enterprise identity governance program.
 
